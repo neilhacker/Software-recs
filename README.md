@@ -1,7 +1,7 @@
 # Apps/software
 
 Background apps
-* Alfred, text expansion, workflows, clipboard history, file search etc, free but to get all the feature here I think it's £20 https://www.alfredapp.com/
+* Alfred, text expansion, workflows, clipboard history, file search etc, free but to get all the feature here I think it's £20, my alfred stuff is here (https://github.com/neilhacker/Alfred), https://www.alfredapp.com/
 * Rectangle, window manager to snap things to left/right of screen, full screen etc, free, https://rectangleapp.com/
 * CleanShot X, insane screenshot tool, lets you annotate as soon as you've taken pictures, scrolling capture, OCR (I've set mine to cmd-shift-2), puts pin of screenshot over screen so you can quickly drag and drop into file, $30, https://cleanshot.com/
 * Meeter, looks through calanders for videocall links and organises them all in menu bar to join with one click, free, https://trymeeter.com/
