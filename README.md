@@ -1,4 +1,4 @@
-# Background-apps
+# Background apps/software
 
 This is just a collection of the apps I have running in the background on my mac that I think other people would like.
 * Alfred, text expansion, workflows, clipboard history, file search etc, free but to get all the feature here I think it's £20 https://www.alfredapp.com/
@@ -8,4 +8,5 @@ This is just a collection of the apps I have running in the background on my mac
 * Flux, changes screen brightness/contrast throughout day, free, https://justgetflux.com/
 * Hand mirror, litterally just a button in the menu bar you can click to quickly toggle your front camera on/off, free, https://handmirror.app/
 * Spoftify widget, mac notification centres have no way to control spotify so this is a widget someone built that lets you play/pause from the notification centre, also makes background of widget the album art, free, https://github.com/fabiusBile/Spotify4BigSur
+* Stylus, Chrome extension to alter websites CSS, free, https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en/
 
